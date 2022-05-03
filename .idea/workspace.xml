@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="403474c7-c35b-4b26-8b6e-c45effe0edd1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/최준헌.py" afterDir="false" />
-    </list>
+    <list default="true" id="403474c7-c35b-4b26-8b6e-c45effe0edd1" name="변경" comment="최준헌 테스트 브랜치로 파일 전송" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +30,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="최준헌" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -71,8 +73,16 @@
       <option name="presentableId" value="Default" />
       <updated>1651549435113</updated>
       <workItem from="1651549437274" duration="156000" />
-      <workItem from="1651561641306" duration="41000" />
+      <workItem from="1651561641306" duration="694000" />
     </task>
+    <task id="LOCAL-00001" summary="최준헌 테스트 브랜치로 파일 전송">
+      <created>1651561699525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651561699525</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +98,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="최준헌 테스트 브랜치로 파일 전송" />
+    <option name="LAST_COMMIT_MESSAGE" value="최준헌 테스트 브랜치로 파일 전송" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/citistagram$.coverage" NAME="최준헌 커버리지 결과" MODIFIED="1651561678755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
