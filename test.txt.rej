@@ -1,0 +1,10 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -14,5 +14,6 @@
+ 테스트한다 테스트~2
+\ No newline at end of file
+ 테스트한다 테스트~3
++
+ =====================================
+ 
+ 브랜치 테스트1
+\ No newline at end of file
