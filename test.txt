@@ -1,19 +1,26 @@
 <<<<<<< HEAD
+이호빈:
 엄관용: test 22221
 이호빈:1
 최준헌: testttttttttttt:comflict 안녕하세요 한번더 해봅니닷 왜되는걸까
 =======
+엄관용: test test2
 엄관용: test test21
 이호빈: crash test
+최준헌: testttttttttttt
 최준헌: testttttttttttt1
 >>>>>>> e4a9cd63b05c996f32b9691e82f53a17ac452be2
 한예슬 test
 
 
+<<<<<<< .merge_file_a02932
 <<<<<<< HEAD
 
 
-;kasdhf;slkadfj;lsakdjf;lkasjdf;lkjasd;flkdsja;lfkj 과연 이게 없어지려나??
+;kasdhf;slkadfj;lsakdjf;lkasjdf;lkjasd;flkdsja;lfkj 과연 이게 없어지려나??;kasdhf;slkadfj;lsakdjf;lkasjdf;lkjasd;flkdsja;lfkj 과연 이게 없어지려나??
 =======
 테스트한다 테스트~
 >>>>>>> 1fea56d141a1ad22ddf6e5a5b99d9555b8a2b9b7
+=======
+테스트한다 테스트~
+>>>>>>> .merge_file_a15428

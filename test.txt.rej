@@ -1,0 +1,7 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -1,5 +1,4 @@
+ <<<<<<< HEAD
+-엄관용: test 2222
+ 엄관용: test 22221
+ 이호빈:1
+ 최준헌: testttttttttttt:comflict 안녕하세요 한번더 해봅니닷 왜되는걸까
