@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 엄관용: test
 이호빈:
 최준헌: testttttttttttt:comflict
+=======
+엄관용: test test2
+이호빈: crash test
+최준헌: testttttttttttt
+>>>>>>> e4a9cd63b05c996f32b9691e82f53a17ac452be2
 한예슬
